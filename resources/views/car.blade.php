@@ -54,7 +54,6 @@
             }
         </style>
 
-
 <table>   
         <thead>       
             <tr>                              
@@ -75,7 +74,7 @@
         </tr>
     </tbody>
 
-
+    </div>
     </table>
 </body>
 </html>
